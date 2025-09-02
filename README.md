@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Tharun Mopada!
 
-🎓 Final Year CSE Student | 💻 Fresher | Aspiring Data Analyst & Full Stack Developer  
-📍 Andhra Pradesh, India | ✉️ tharunmopada@gmail.com  
+🎓 Graduate | 💻 Fresher | Aspiring Data Analyst & Full Stack Developer  
+📍 Andhra Pradesh, India | ✉️ tharunmopada@gmail.com 
+ |  👉 Open to Full Stack, Data Analyst, and AI/ML roles | 🌍 Open to relocate across India
 
 ---
 
